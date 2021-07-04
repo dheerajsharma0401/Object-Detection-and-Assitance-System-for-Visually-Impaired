@@ -11,8 +11,7 @@ This is a vision enhancer based module specifically for the BLIND VICTIMS. The s
 * Fork the repository at your profile
 * Git Clone the repository to your local machine. 
 * pip install - r requirements.txt
-* Follow my Youtube Tutorial
-* Run [MainFile](https://github.com/dheerajsharma0401/VISION-I/blob/master/webcam_blind_voice.py)
+* Run [MainFile](https://github.com/dheerajsharma0401/Object-Detection-and-Assitance-System-for-Visually-Impaired/blob/63bf4498f04b831863e1e2b8a86e246b920dffa4/webcam_blind_voice.py)
 
 ## TODO
 * Make it dynamic over Cloud systems.
